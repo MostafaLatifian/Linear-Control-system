@@ -11,16 +11,4 @@ This repository contains materials and code related to the **Linear Control Syst
 - Controller design (PID, state feedback, etc.)
 - Simulation of control systems in MATLAB/Python
 
-## Installation
-To set up the project, follow these steps:
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/linear-control-system.git
-
-# Change into the directory
-cd linear-control-system
-
-# Install dependencies (if applicable)
-pip install -r requirements.txt  # For Python users
 
