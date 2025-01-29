@@ -3,12 +3,31 @@ Linear-Control-W2024
 # Linear Control System
 
 ## Description
-This repository contains materials and code related to the **Linear Control System** course, held by **Dr. Taghirad**. The project covers fundamental and advanced topics in linear control theory, including stability analysis, state-space representation, and controller design.
-
-## Features
-- State-space modeling of linear systems
+This repository contains materials and code related to the **Linear Control System** course, held by **Dr. Hamidreza Taghirad**.
+Winter 2024
+K. N. Toosi University of Technology
+Electrical and Computer Engineering Campus
+## Student Information
+**Student name: Mostafa Latifin**
+**Student ID: 40122193**
+This repository contains all of my homework, research, and projects that I have completed in this course.
+## Course Topics
+- Basics of Linear Control
+- Different structures of control systems
+- Model representation in control systems
+- Block diagram display
+- SFG signal flow diagram
+- Time behavior of control systems
+- Transient state characteristics of time behavior
+- Steady-State characteristics of control systems
 - Stability analysis techniques
-- Controller design (PID, state feedback, etc.)
+- Routh-Hurwitz stability criterion
+- rules for plotting the root locus
+- Control system design using the root locus method
+- Frequency analysis using Bode plot
+- Frequency analysis using Nyquist plot
+- Nyquist stability criterion
+- Controller design in the frequency domain(PD, PI, Lead, Lag, etc.)
 - Simulation of control systems in MATLAB/Python
 
 
