@@ -1,5 +1,4 @@
-# Linear-Control-System
-Linear-Control-W2024
+
 # Linear Control System
 
 ## Description
@@ -10,7 +9,7 @@ Electrical and Computer Engineering Campus
 ## Student Information
 **Student name: Mostafa Latifin**<br>
 **Student ID: 40122193**<br>
-This repository contains all of my homework, research, and projects that I have completed in this course.
+This repository contains all of my homework, researchs, and projects that I have completed in this course.
 ## Course Topics
 - Basics of Linear Control
 - Different structures of control systems
