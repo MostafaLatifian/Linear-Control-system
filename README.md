@@ -16,22 +16,22 @@ This repository contains all of my **homework, research, and projects** that I h
 
 ___
 ## 📚 Course Topics
-✔️ **Fundamentals of Linear Control**  
-✔️ Different structures of control systems  
-✔️ Model representation in control systems  
-✔️ Block diagram representation  
-✔️ SFG (Signal Flow Graph)  
-✔️ Time-domain behavior of control systems  
-✔️ Transient-state characteristics  
-✔️ Steady-state characteristics  
-✔️ Stability analysis techniques  
-✔️ Routh-Hurwitz stability criterion  
-✔️ Root locus method & plotting rules  
-✔️ Control system design using root locus  
-✔️ Frequency analysis using Bode plot  
-✔️ Frequency analysis using Nyquist plot  
-✔️ Controller design in the frequency domain (PD, PI, Lead, Lag, etc.)  
-✔️ **Simulation of control systems in MATLAB/Python**  
+- **Fundamentals of Linear Control**  
+- Different structures of control systems  
+- Model representation in control systems  
+- Block diagram representation  
+- SFG (Signal Flow Graph)  
+- Time-domain behavior of control systems  
+- Transient-state characteristics  
+- Steady-state characteristics  
+- Stability analysis techniques  
+- Routh-Hurwitz stability criterion  
+- Root locus method & plotting rules  
+- Control system design using root locus  
+- Frequency analysis using Bode plot  
+- Frequency analysis using Nyquist plot  
+- Controller design in the frequency domain (PD, PI, Lead, Lag, etc.)  
+- **Simulation of control systems in MATLAB/Python**  
 
 ___
  
