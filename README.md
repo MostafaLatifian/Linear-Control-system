@@ -22,11 +22,10 @@ This repository contains all of my homework, research, and projects that I have 
 - Steady-State characteristics of control systems
 - Stability analysis techniques
 - Routh-Hurwitz stability criterion
-- rules for plotting the root locus
+- Rules for plotting the root locus
 - Control system design using the root locus method
 - Frequency analysis using Bode plot
 - Frequency analysis using Nyquist plot
-- Nyquist stability criterion
 - Controller design in the frequency domain(PD, PI, Lead, Lag, etc.)
 - Simulation of control systems in MATLAB/Python
 
