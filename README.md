@@ -6,12 +6,12 @@ This repository contains materials and code related to the **Linear Control Syst
 Winter 2024<br>
 K. N. Toosi University of Technology<br>
 Electrical and Computer Engineering Campus
----
+___
 ## Student Information
 **Student name: Mostafa Latifin**<br>
 **Student ID: 40122193**<br>
 This repository contains all of my homework, researchs, and projects that I have completed in this course.
-***
+___
 ## Course Topics
 - Basics of Linear Control
 - Different structures of control systems
