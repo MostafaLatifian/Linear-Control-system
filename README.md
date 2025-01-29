@@ -1,14 +1,14 @@
-# 🎯 Linear Control System
+#  Linear Control System
 
 ## 📌 Description
 This repository contains materials and code related to the **Linear Control System** course, held by **Dr. Hamidreza Taghirad**.  
 
-📅 **Winter 2024**  
-🏫 **K. N. Toosi University of Technology**  
-⚡ **Electrical and Computer Engineering Campus**  
+ **Winter 2024**  
+ **K. N. Toosi University of Technology**  
+ **Electrical and Computer Engineering Campus**  
 
 ___
-## 🧑‍🎓 Student Information
+## Student Information
 - **Student Name:** Mostafa Latifian  
 - **Student ID:** 40122193  
 
@@ -34,5 +34,4 @@ ___
 ✔️ **Simulation of control systems in MATLAB/Python**  
 
 ___
-
-Would you like me to add installation instructions, usage examples, or additional formatting? 🚀😊  
+ 
