@@ -3,9 +3,9 @@ Linear-Control-W2024
 # Linear Control System
 
 ## Description
-This repository contains materials and code related to the **Linear Control System** course, held by **Dr. Hamidreza Taghirad**.
-Winter 2024
-K. N. Toosi University of Technology
+This repository contains materials and code related to the **Linear Control System** course, held by **Dr. Hamidreza Taghirad**.<br>
+Winter 2024<br>
+K. N. Toosi University of Technology<br>
 Electrical and Computer Engineering Campus
 ## Student Information
 **Student name: Mostafa Latifin**<br>
