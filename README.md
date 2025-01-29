@@ -8,8 +8,8 @@ Winter 2024
 K. N. Toosi University of Technology
 Electrical and Computer Engineering Campus
 ## Student Information
-**Student name: Mostafa Latifin**
-**Student ID: 40122193**
+**Student name: Mostafa Latifin**<br>
+**Student ID: 40122193**<br>
 This repository contains all of my homework, research, and projects that I have completed in this course.
 ## Course Topics
 - Basics of Linear Control
