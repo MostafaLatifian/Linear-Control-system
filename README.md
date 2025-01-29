@@ -32,6 +32,9 @@ ___
 - Frequency analysis using Nyquist plot  
 - Controller design in the frequency domain (PD, PI, Lead, Lag, etc.)  
 - **Simulation of control systems in MATLAB/Python**  
-
 ___
- 
+ ## Overall highlights of course
+### Researchs
+- Features of system representation in the frequency domain and its advantages over the time domain
+- Root Locus for systems with delay
+- Derivation of the zero row in Routh-Hurwitz
