@@ -34,7 +34,7 @@ ___
 - **Simulation of control systems in MATLAB/Python**  
 ___
  ## Overall highlights of course
-### Researchs
+### Researches
 - Features of system representation in the frequency domain and its advantages over the time domain
 - Root Locus for systems with delay
 - Derivation of the zero row in Routh-Hurwitz
