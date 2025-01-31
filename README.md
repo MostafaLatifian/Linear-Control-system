@@ -39,6 +39,6 @@ ___
 - Root Locus for systems with delay
 - Derivation of the zero row in Routh-Hurwitz
 ### Assignments
-- This repository contains the homework I have completed along with the questions
+- This repository contains the homework I have completed along with the questions.
 ### Project
-- My final project, which includes all parts of the course, is also included in this repository
+- My final project, which includes all parts of the course, is also included in this repository.
