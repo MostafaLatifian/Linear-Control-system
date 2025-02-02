@@ -9,10 +9,10 @@ Gs = (5 * s + 10) / (s**2 + 4 * s + 5)
 Ts = (5 * s + 10) / (s**2 + 9 * s + 15)
 
 # Compute poles and zeros
-poles_Ts = ctrl.pole(Ts)
-poles_Gs = ctrl.pole(Gs)
-zeros_Ts = ctrl.zero(Ts)
-zeros_Gs = ctrl.zero(Gs)
+poles_Ts = ctrl.poles(Ts)
+poles_Gs = ctrl.poles(Gs)
+zeros_Ts = ctrl.zeros(Ts)
+zeros_Gs = ctrl.zeros(Gs)
 
 # Print results
 print("Poles of Ts:", poles_Ts)
